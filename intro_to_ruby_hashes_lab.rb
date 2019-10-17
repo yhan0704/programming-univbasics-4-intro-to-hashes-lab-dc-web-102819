@@ -7,7 +7,11 @@ def my_hash
 end
 
 def pioneer
+<<<<<<< HEAD
   {:name => 'Grace Hopper'}
+=======
+  {# return a hash with a key of :name and a corresponding value of 'Grace Hopper'}
+>>>>>>> b19489c2c2c2f95dc8851ce6086c5cc5fbfd0ed4
 end
 
 def id_generator
